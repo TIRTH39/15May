@@ -1,8 +1,8 @@
-#include <stdio.h>
+#include<stdio.h>
 
 main()
 {
-    int arr[5] = {10,22,43,64,85};
+    int arr[5]={10,22,43,64,85};
     int i=0;
 
         printf("Array elements:-\n");
